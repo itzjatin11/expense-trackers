@@ -1,0 +1,2 @@
+Serial No: 1, Description: lunch, Amount: 50.0, Category: food, Date: 2024-10-14
+Serial No: 2, Description: dinner, Amount: 20.0, Category: food, Date: 2024-11-12
